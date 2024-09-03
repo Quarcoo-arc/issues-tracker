@@ -3,4 +3,4 @@
 	url = https://github.com/Quarcoo-arc/issues-tracker-frontend
 [submodule "backend"]
 	path = backend
-	url = ./backend
+	url = https://github.com/Quarcoo-arc/issues-tracker-backend
